@@ -1,4 +1,4 @@
-### Hi there (page still in work)
+### Welcome! (page still in work)
 
 ## Software Development Projects
 
