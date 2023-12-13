@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there (page still in work)
 
-<!--
-**kalipso84/kalipso84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Development Projects
 
-Here are some ideas to get you started:
+- **[Neopxiel Ambilight](https://github.com/kalipso84/NeopixelAmbilight)**
+- **[Spotify recommendation system](https://github.com/kalipso84/spotify-recommendation)**
+  
+### **Computer Graphics**
+  - [WebGL graphics engine](https://github.com/kalipso84/webgl2-graphics-engine)
+  - [Concepts](https://github.com/kalipso84/computer-graphics) (Bézier curve, QuadTree)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Artifical Inteligence**
+  - [Concepts](https://github.com/kalipso84/artificial-intelligence) (Search algorithms, Supervised learning)
+
+### **Web development**
+  - [web project](https://github.com/kalipso84/web-development) (Sign up, log in, Oracle DB)
+
+## Wrok experince
+### IJS - Institut "Jožef Stefan"
+- [ELECTRONIC CERAMICS - K5](https://ijs.si/ijsw/Electronic%20Ceramics%20K5) (LabView programmer)
+  - OscilloscopeXY user interface
+  - Harmonics (automatic oscilloscope capturing)
+  - Furnace permittivity
