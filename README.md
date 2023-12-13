@@ -16,7 +16,7 @@
   - [Web project](https://github.com/kalipso84/web-development) (Sign up, log in, Oracle DB)
 
 ## Wrok experince
-### IJS - Institut "Jožef Stefan"
+### IJS | Institut "Jožef Stefan"
 - [ELECTRONIC CERAMICS - K5](https://ijs.si/ijsw/Electronic%20Ceramics%20K5) (LabView programmer)
   - OscilloscopeXY user interface
   - Harmonics (automatic oscilloscope capturing)
