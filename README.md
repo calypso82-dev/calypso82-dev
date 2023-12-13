@@ -21,3 +21,8 @@
   - OscilloscopeXY user interface
   - Harmonics (automatic oscilloscope capturing)
   - Furnace permittivity
+### SIQ | Slovenian Institute of Quality and Metrology
+- [siq testing](https://www.siq.si/en/) (project work)
+## Other
+- [Hekaton 2022](https://www.irt3000.si/novice/2022032311575448/dir_2022_hekaton_novartisov_izziv/) (3rd place)
+- [Kalipso](https://www.youtube.com/channel/UCi6t0dPDjME77OMITOasWBw) (YouTube channel)
