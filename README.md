@@ -2,7 +2,7 @@
 
 ## Software Development Projects
 
-- **[NeoLightFX](https://github.com/kalipso84/NeopixelAmbilight)**
+- **[NeoLightFX](https://github.com/kalipso84/NeopixelAmbilight)** (ambilight system)
 - **[Spotify recommendation system](https://github.com/kalipso84/spotify-recommendation)**
   
 ### **Computer Graphics**
