@@ -14,7 +14,7 @@
 *2D Platformer Game*
 - Indie 2D platformer currently being developed in Unity
 - Originally built in MonoGame using a custom ECS-style framework
-- Features advanced pooling, scene managemen and processing systems
+- Features advanced pooling, scene management and processing systems
 - Migrated to Unity for commercial release
 - [View Project](https://github.com/calypso821/eclipse-monogame)
 
