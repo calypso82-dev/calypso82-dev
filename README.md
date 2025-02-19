@@ -5,7 +5,7 @@
 
 ### NeoLight *(Private | Active Development)*
 *Ambient Lighting System*
-- LED control system for WS2811/WS2812 strips controlled by a Raspberry Pi
+- LED control system for WS281x strips controlled by a Raspberry Pi
 - Supports multiple input sources: video, camera, images, audio
 - High-performance rendering architecture for video and audio processing
 - Features color and grayscale correction, intensity modification, and smooth transitions with frame interpolation
