@@ -5,18 +5,29 @@
 
 ### NeoLight *(Private | Active Development)*
 *Ambient Lighting System*
-- LED control system for WS2811/WS2812 strips with real-time processing
+- LED control system for WS2811/WS2812 strips controlled by a Raspberry Pi
 - Supports multiple input sources: video, camera, images, audio
 - High-performance rendering architecture for video and audio processing
+- Features color and grayscale correction, intensity modification, and smooth transitions with frame interpolation
 - [View Project](https://github.com/calypso821/NeoLight)
 
 ### Eclipse *(Private | Active Development)*
 *2D Platformer Game*
 - Indie 2D platformer currently being developed in Unity
 - Originally built in MonoGame using a custom ECS-style framework
-- Features advanced pooling, scene management and processing systems
+- Features advanced pooling, scene management and optimized processing systems
 - Migrated to Unity for commercial release
-- [View Project](https://github.com/calypso821/eclipse-monogame)
+- [View Project (MonoGame)](https://github.com/calypso821/eclipse-monogame)
+
+
+### WebGL2 Graphics Framework *(Public)*
+*3D Rendering Engine*
+- Lambert-Phong illumination with normal mapping and custom shader (GLSL) implementation
+- Lighting system (directional, point, spot lights with dynamic states)
+- Scene management with optimized BVH and bounding volume (AABB, OBB, Sphere)
+- GLTF asset pipeline with full scene/animation loading and material imports
+- Supports raycasting, projectile physics, and BVH-based collision detection
+- [View Project](https://github.com/calypso821/webgl2-graphics)
 
 ## Technical Expertise
 
@@ -56,6 +67,7 @@
 |---------|-------------|--------------|
 | [System Programming](https://github.com/calypso821/system-dev) | Low-level programming | C, Bash |
 | [Embedded Systems](https://github.com/calypso821/embedded-systems-assembly) | Hardware programming | Assembly, C |
+| [NeoLight](https://github.com/calypso821/NeoLight) | Ambient Light system | C++ |
 
 ### Computer Science Fundamentals
 | Project | Description | Technologies |
