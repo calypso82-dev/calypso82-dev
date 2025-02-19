@@ -24,7 +24,7 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Eclipse](https://github.com/calypso821/eclipse-monogame) | 2D game framework with ECS architecture | MonoGame, C# |
-| [Shapes](https://github.com/calypso821/shapes-unity) | 2.5D wave-shooter game | Unity, C# |
+| [Shapes](https://github.com/calypso821/shapes-unity) | 2.5D arena-shooter game | Unity, C# |
 | [WebGL 2.0 Graphics](https://github.com/calypso821/webgl2-graphics) | Rendering pipeline, shaders, GPU, geometry | JavaScript, GLSL |
 
 ### Computer Graphics
