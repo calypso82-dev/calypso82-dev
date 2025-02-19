@@ -89,6 +89,10 @@
 ### Slovenian Institute of Quality and Metrology (SIQ)
 - Performed **quality assurance** tasks and learned industry-standard systems and processes
 
+## Education
+- **Computer Science** | University of Ljubljana (FRI)
+- **Mechatronics** | Secondary School for Mechanical Engineering, Mechatronics and Media
+
 ## Other
 - **3rd Place, Novartis Hekaton 2022**
 - **[CalYpso YouTube Channel](https://www.youtube.com/@calypso8211)**
