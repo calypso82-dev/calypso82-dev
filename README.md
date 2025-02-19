@@ -83,11 +83,11 @@
 - Implemented **furnace permittivity measurement software** featuring a PID regulator for temperature control and LCR meter integration for continuous measurements during heating and cooling intervals.  
 
 **Python Programmer | Computer Systems Department (E7)**
-- Designed a **framework for running genetic algorithm optimization** (DE, CMAES).
-- Integrated **feature analysis** with dynamic reporting of optimization progress and performance metrics.
+- Designed a **framework for running genetic algorithm optimization** (DE, CMAES)
+- Integrated **feature analysis** with dynamic reporting of optimization progress and performance metrics
 
 ### Slovenian Institute of Quality and Metrology (SIQ)
-- Performed **quality assurance** tasks and learned industry-standard systems and processes.
+- Performed **quality assurance** tasks and learned industry-standard systems and processes
 
 ## Other
 - **3rd Place, Novartis Hekaton 2022**
