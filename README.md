@@ -77,7 +77,7 @@
 ## Professional Experience
 
 ### **Institut "Jožef Stefan" (IJS)**  
-**LabView Programmer | Electronic Ceramics Department (K5)**  
+**Project Developer | Electronic Ceramics Department (K5)**  
 - Developed **oscilloscope control software** for remote measurement and configuration of oscilloscope settings.  
 - Created an **automated oscilloscope capturing system** for harmonics analysis.  
 - Implemented **furnace permittivity measurement software** featuring a PID regulator for temperature control and LCR meter integration for continuous measurements during heating and cooling intervals.  
