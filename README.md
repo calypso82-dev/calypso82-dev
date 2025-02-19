@@ -93,6 +93,6 @@
 - **Computer Science** | University of Ljubljana (FRI)
 - **Mechatronics** | Secondary School for Mechanical Engineering, Mechatronics and Media
 
-## Other
+## Achivements
 - **3rd Place, Novartis Hekaton 2022**
 - **[CalYpso YouTube Channel](https://www.youtube.com/@calypso8211)**
