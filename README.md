@@ -30,9 +30,8 @@
 - [View Project](https://github.com/calypso821/webgl2-graphics)
 
 ### Computer Vision & Robotics *(Public)*
-*3D Rendering Engine*
 - Integrated computer vision and robotics for real-time object detection and control
-- Image processing pipeline with OpenCV for feature extraction and tracking
+- Image processing with OpenCV for feature extraction and tracking
 - Implemented kinematics algorithms for robotic arm manipulation
 - Real-time color-based sorting, stacking, and pick-and-place operations
 - [View Project](https://github.com/calypso821/computer-vision-robotics)
