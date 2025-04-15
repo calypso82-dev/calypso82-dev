@@ -18,7 +18,7 @@
 - Originally built in MonoGame using a custom ECS - style framework
 - Features advanced pooling, scene management and optimized processing systems
 - Migrated to Unity for commercial release
-- [View Project(MonoGame)] (https://github.com/calypso82-dev/eclipse-monogame)
+- [View Project(MonoGame)](https://github.com/calypso82-dev/eclipse-monogame)
 
 
 ### WebGL2 Graphics Framework *(Public)*
@@ -28,14 +28,14 @@
 - Scene management with optimized BVH and bounding volume (AABB, OBB, Sphere)
 - GLTF asset pipeline with full scene/animation loading and material imports
 - Supports raycasting, projectile physics, and BVH-based collision detection
-- [View Project] (https://github.com/calypso82-dev/webgl2-graphics)
+- [View Project](https://github.com/calypso82-dev/webgl2-graphics)
 
 ### Computer Vision & Robotics *(Public)*
 -Integrated computer vision and robotics for real-time object detection and control
 - Image processing with OpenCV for feature extraction and tracking
 - Implemented kinematics algorithms for robotic arm manipulation
 - Real-time color-based sorting, stacking, and pick-and-place operations
-- [View Project] (https://github.com/calypso82-dev/computer-vision-robotics)
+- [View Project](https://github.com/calypso82-dev/computer-vision-robotics)
 
 ## Technical Expertise
 
@@ -84,23 +84,23 @@
 
 ## Professional Experience
 
-### **Institut "Jožef Stefan" (IJS)**  
-**Project Developer | Electronic Ceramics Department(K5) * *
--Developed * *oscilloscope control software * * for remote measurement and configuration of oscilloscope settings.
-- Created an * *automated oscilloscope capturing system * * for harmonics analysis.  
--Implemented * *furnace permittivity measurement software * *featuring a PID regulator for temperature control and LCR meter integration for continuous measurements during heating and cooling intervals.
+### *Institut "Jožef Stefan" (IJS)*
+*Project Developer | Electronic Ceramics Department(K5)*
+-Developed **Oscilloscope control software** for remote measurement and configuration of oscilloscope settings.
+- Created an **automated oscilloscope capturing system** for harmonics analysis.  
+-Implemented **furnace permittivity measurement software** featuring a PID regulator for temperature control and LCR meter integration for continuous measurements during heating and cooling intervals.
 
-* *Python Programmer | Computer Systems Department(E7) * *
--Designed a * *framework for running genetic algorithm optimization * *(DE, CMAES)
-- Integrated * *feature analysis * *with dynamic reporting of optimization progress and performance metrics
+*Python Programmer | Computer Systems Department(E7)*
+-Designed a **framework for running genetic algorithm optimization** (DE, CMAES)
+- Integrated **feature analysis** with dynamic reporting of optimization progress and performance metrics
 
 ### Slovenian Institute of Quality and Metrology (SIQ)
-- Performed * *quality assurance * *tasks and learned industry - standard systems and processes
+- Performed **quality assurance** tasks and learned industry - standard systems and processes
 
 ## Education
-- **Computer Science * * | University of Ljubljana(FRI)
-- **Mechatronics * * | Secondary School for Mechanical Engineering, Mechatronics and Media
+- **Computer Science** | University of Ljubljana(FRI)
+- **Mechatronics** | Secondary School for Mechanical Engineering, Mechatronics and Media
 
 ## Achievements
-- **3rd Place, Novartis Hekaton 2022 * * – A robotics and programming hackathon(healthcare challenge)
-- ** [CalYpso YouTube Channel](https://www.youtube.com/@calypso82-dev1)**
+- **3rd Place, Novartis Hekaton 2022** – A robotics and programming hackathon(healthcare challenge)
+- **[CalYpso YouTube Channel](https://www.youtube.com/@calypso82-yt)**
