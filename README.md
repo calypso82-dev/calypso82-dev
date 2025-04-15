@@ -1,20 +1,4 @@
 # CalYpso
-using Palmmedia.ReportGenerator.Core.Parser.Analysis;
-using static TMPro.SpriteAssetUtilities.TexturePacker_JsonArray;
-using static Unity.VisualScripting.Round<TInput, TOutput>;
-using static UnityEditor.PlayerSettings;
-using static UnityEditor.Rendering.CameraUI;
-using static UnityEngine.Android.AndroidGame;
-using static UnityEngine.Rendering.DebugUI.MessageBox;
-using System.ComponentModel.Design;
-using System.Diagnostics;
-using System.Threading.Tasks;
-using System;
-using Unity.VisualScripting;
-using UnityEditor.ShaderGraph.Internal;
-using UnityEngine.Rendering.VirtualTexturing;
-using UnityEngine.tvOS;
-using UnityEngine;
 
 *Game Developer & Graphics Engineer*
 
