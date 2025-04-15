@@ -5,12 +5,12 @@
 ## Featured Projects
 
 ### NeoLight *(Private | Active Development)*
-* Ambient Lighting System*
+*Ambient Lighting System*
 - LED control system for WS281x strips controlled by a Raspberry Pi
 - Supports multiple input sources: video, camera, images, audio
 - High-performance rendering architecture for video and audio processing
 - Features color and grayscale correction, intensity modification, and smooth transitions with frame interpolation
-- [View Project] (https://github.com/calypso82-dev/NeoLight)
+- [View Project](https://github.com/calypso82-dev/NeoLight)
 
 ### Eclipse *(Private | Active Development)*
 *2D Platformer Game*
@@ -18,7 +18,7 @@
 - Originally built in MonoGame using a custom ECS - style framework
 - Features advanced pooling, scene management and optimized processing systems
 - Migrated to Unity for commercial release
-- [View Project(MonoGame)](https://github.com/calypso82-dev/eclipse-monogame)
+- [View Project (MonoGame)](https://github.com/calypso82-dev/eclipse-monogame)
 
 
 ### WebGL2 Graphics Framework *(Public)*
