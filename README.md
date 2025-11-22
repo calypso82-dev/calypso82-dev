@@ -3,39 +3,38 @@
 *Game Developer & Graphics Engineer*
 
 ## Featured Projects
-
-### NeoLight *(Private | Active Development)*
+### [NeoLight](https://github.com/calypso82-dev/NeoLight) *(Private | Active Development)*
 *Ambient Lighting System*
 - LED control system for WS281x strips controlled by a Raspberry Pi
 - Supports multiple input sources: video, camera, images, audio
 - High-performance rendering architecture for video and audio processing
 - Features color and grayscale correction, intensity modification, and smooth transitions with frame interpolation
-- [View Project](https://github.com/calypso82-dev/NeoLight)
 
-### Eclipse *(Private | Active Development)*
+### [Eclipse](https://github.com/calypso82-dev/eclipse-monogame) *(Private | Active Development)*
 *2D Platformer Game*
 - Indie 2D platformer currently being developed in Unity
-- Originally built in MonoGame using a custom ECS - style framework
+- Originally built in MonoGame using a custom ECS-style framework
 - Features advanced pooling, scene management and optimized processing systems
 - Migrated to Unity for commercial release
-- [View Project (MonoGame)](https://github.com/calypso82-dev/eclipse-monogame)
 
-
-### WebGL2 Graphics Framework *(Public)*
+### [WebGL2 Graphics Framework](https://github.com/calypso82-dev/webgl2-graphics) *(Public)*
 *3D Rendering Engine*
 - Lambert-Phong illumination with normal mapping and custom shader (GLSL) implementation
 - Lighting system (directional, point, spot lights with dynamic states)
 - Scene management with optimized BVH and bounding volume (AABB, OBB, Sphere)
 - GLTF asset pipeline with full scene/animation loading and material imports
 - Supports raycasting, projectile physics, and BVH-based collision detection
-- [View Project](https://github.com/calypso82-dev/webgl2-graphics)
 
-### Computer Vision & Robotics *(Public)*
--Integrated computer vision and robotics for real-time object detection and control
+### [Computer Vision & Robotics](https://github.com/calypso82-dev/computer-vision-robotics) *(Public)*
+- Integrated computer vision and robotics for real-time object detection and control
 - Image processing with OpenCV for feature extraction and tracking
 - Implemented kinematics algorithms for robotic arm manipulation
 - Real-time color-based sorting, stacking, and pick-and-place operations
-- [View Project](https://github.com/calypso82-dev/computer-vision-robotics)
+
+### [Simple Compiler](https://github.com/calypso82-dev/simple-compiler) *(Public)*
+- Full compilation pipeline: lexical analysis, parsing, semantic analysis, code generation
+- Targets a custom 32-bit stack machine with built-in interpreter
+- Language extensions: array indexing, `++`/`--` operators, multi-line comments
 
 ## Technical Expertise
 
@@ -81,6 +80,7 @@
 | Project | Description | Technologies |
 | ---------| -------------| --------------|
 | [Data Structures & Algorithms](https://github.com/calypso82-dev/data-structures-algorithms) | Sort algorithms and data structures | Java |
+| [Simple Compiler](https://github.com/calypso82-dev/simple-compiler) | Compilation pipeline and stack machine | Java |
 
 ## Professional Experience
 
