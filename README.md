@@ -110,4 +110,4 @@
 
 ## Achievements
 - **3rd Place, Novartis Hekaton 2022** – A robotics and programming hackathon(healthcare challenge)
-- **[CalYpso YouTube Channel](https://www.youtube.com/@calypso82-yt)**
+- *[YouTube Channel](https://www.youtube.com/@calypso82yt)*
